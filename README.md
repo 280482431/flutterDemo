@@ -28,14 +28,14 @@ b. 安卓文件:“android/”
 
 #### 参与贡献
 
-微博:你飞跃俊杰
-简书:你飞跃俊杰
+1. 微博:你飞跃俊杰
+2. 简书:你飞跃俊杰
 
 #### git命令
 
-git clone url  	//下载
-git init name  //创建
-git add FlutterOpenAccount/			//跟踪新文件
-git commit -m text				//提交跟踪文件
-git push -u origin master    //提交
+1. 下载         git clone url  	
+2. 创建         git init name  
+3. 跟踪新文件    git add name
+4. 提交跟踪文件  git commit -m text			
+5. 提交         git push -u origin master    
 
