@@ -1,4 +1,4 @@
-# FlutterOpenAccount
+# FlutterDemo
 
 #### 介绍
 根据《Flutter实战》学习时写的一些demo
@@ -10,8 +10,9 @@
 1. 图片文件:“graphics/”
 2. 字体文件:“fonts/”
 3. 第三方配置文件:“pubspec.yaml”
+4. 代码文件(dart文件)“lib/”
 
-4. 不需要理会的文件
+5. 不需要理会的文件
 a. iOS文件:“ios/”
 b. 安卓文件:“android/”
 
